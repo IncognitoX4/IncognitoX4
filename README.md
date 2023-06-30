@@ -1,5 +1,6 @@
-# 👋 Hi, I’m <em>**@IncognitoX4**</em>
-#### <em>welcome to my page! 😊</em>
+# 👋 Hi, I’m <em>**__@IncognitoX4__**</em>
+#### <em>Welcome to my page! 😊</em>
+_I am very new to this._
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - [] <em>__CSS__</em>
