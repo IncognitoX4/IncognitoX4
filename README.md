@@ -7,7 +7,7 @@ _I am very new to this._
 - [x] <em>~~__HTML__~~</em>
 - [] <em>__JAVASCRIPT__</em>
 - [] <em>__TYPESCRIPT__</em>
-- [x] <em>__Markdown__</em>
+- [x] <em>~~__Markdown__~~</em>
 - 💞️ I’m looking to collaborate on
 1. Open source 
 - 📫 How to reach me ...
